@@ -9,3 +9,5 @@
 Все страницы адаптивны.
 
 [Главная страница](https://chipolina.github.io/gidro/ "Главная страница")
+[Страница каталога](https://chipolina.github.io/gidro/catalog.html "Страница каталога")
+[Страница одного товара](https://chipolina.github.io/gidro/product_page.html "Страница одного товара")
